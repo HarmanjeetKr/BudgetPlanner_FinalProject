@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BudgetPlanner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Welcome to Expense Tracker</string>
+    <string name="errMsg">Please insert all fields!</string>
+    
+    <string name="calculate">Calculate Disposable Income</string>
+    <string name="add">Add Expense</string>
+    <string name="map">Maps</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="contact">Contact Us</string>
+
+    <string name="help_txt">Your Disposable Income is:</string>
+
+    <string name="contactus">Better Banking 2020 Inc.
+                    5555 Main St.(suite 101)
+                    Toronto,ON
+                    M5M 5M5
+                    tel.:(416)555-5555
+                    email:budget@somewhere.com
+                    url:http://www.senecacollege.ca</string>
+</resources>

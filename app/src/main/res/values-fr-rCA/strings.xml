@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Planificateur de budget</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Réglages</string>
+    <string name="text">Bienvenue à Suivi des dépenses</string>
+
+    <string name="calculate">Calculer le revenu disponible</string>
+    <string name="add">Ajouter une dépense</string>
+    <string name="map">Plans</string>
+    <string name="about">Sur</string>
+    <string name="exit">Sortie</string>
+    <string name="contact">Contactez nous</string>
+
+    <string name="help_txt">Votre revenu disponible est:</string>
+
+    <string name="contactus">Better Banking 2020 Inc.
+                    5555 rue principale (suite 101)
+                    Toronto,ON
+                    M5M 5M5
+                    tél.:(416)555-5555
+                    email:budget@somewhere.com
+                    url:http://www.senecacollege.ca</string>
+</resources>
